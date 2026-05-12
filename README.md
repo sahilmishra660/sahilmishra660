@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**sahilmishra660/sahilmishra660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Web Development
+- JavaScript
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects I’m working on:
+- Portfolio Website
+- Algoplayground
+- To-Do App
+
+📚 Goals:
+- Improve coding skills
+- Build real projects
+- Get internship opportunities
