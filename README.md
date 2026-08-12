@@ -99,5 +99,5 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 - 💻 Built a project at the HackDevengers 1.0 Hackathon
 
 <br>
-
+![Snake Animation](https://raw.githubusercontent.com/sahilmishra660/sahilmishra660/output/github-contribution-grid-snake.svg)
 
