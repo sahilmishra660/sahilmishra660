@@ -100,14 +100,7 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 <br>
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=sahilmishra668&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=sahilmishra668&layout=compact&theme=radical&hide=html,css"/>
-
-</div>
 
 <br>
 
