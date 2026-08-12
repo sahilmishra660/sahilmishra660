@@ -105,8 +105,8 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahilmishra660&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=8A2BE2&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=sahilmishra660&theme=dark&hide_border=true&background=0d1117&stroke=A970FF&ring=8A2BE2&fire=7F00FF" height="165"/>
+<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=sahilmishra668&show_icons=true&theme=radical&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=sahilmishra668&layout=compact&theme=radical&hide=html,css"/>
 
 </div>
 
