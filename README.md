@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sahil%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20React.js%20Developer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8A2BE2&height=200&section=header&text=Sahil%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20React.js%20Developer&descAlignY=55&descSize=16"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=550&lines=Building+with+React.js;BCA+Final+Year+Student;Open+to+Internship+Opportunities" alt="Typing SVG" />
 
