@@ -101,17 +101,9 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 <br>
 
-
-## 📊 GitHub Stats & Overview
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmishra660&theme=tokyo-night" alt="Sahil's GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sahilmishra660">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-sahilmishra660-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra660&show_icons=true&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=dark&icon_color=2ea44f&title_color=2ea44f&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Languages" width="48%" />
 </p>
 <br>
 
