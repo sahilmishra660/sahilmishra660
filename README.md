@@ -28,9 +28,17 @@ Right now I'm looking for a **Software Engineering / Frontend Development intern
 <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,nodejs,express,mongodb,git,github,vscode&theme=dark&perline=11"/>
 
 <br>
+<!-- GitHub Activity Trophy (No Rate Limit Issue) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra660&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilmishra660&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Sahil Trophies" />
+</div>
+
+<br />
+
+<!-- Clean Minimal Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahilmishra660&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil Mishra Stats" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="45%" />
 </div>
 <br>
 
@@ -103,9 +111,7 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 - 💻 Built a project at the HackDevengers 1.0 Hackathon
 
 <br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmishra660&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilmishra660/sahilmishra660/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilmishra660/sahilmishra660/output/github-contribution-grid-snake.svg">
