@@ -112,20 +112,38 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 <br>
 
-### 🐍 Contribution Snake
+name: generate animation
 
-<div align="center">
+on:
+  # har 24 ghante mein auto-run hoga
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # manual run karne ke liye option
+  workflow_dispatch:
 
-<img src="https://raw.githubusercontent.com/sahilmishra660/sahilmishra660/output/github-contribution-grid-snake-dark.svg"/>
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Snake SVG Animation Generate karne ke liye
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: sahilmishra660
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-</div>
-
-<br>
-
-<div align="center">
-<sub>Thanks for stopping by — always open to a conversation.</sub>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+      # Generated SVG file ko output branch par push karne ke liye
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
