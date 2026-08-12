@@ -102,10 +102,15 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 <br>
 
 
-## 📊 GitHub Activity
+## 🏆 GitHub Trophies & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmishra660&theme=tokyo-night" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilmishra660&theme=onedark" alt="Sahil Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=sahilmishra660&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=tokyonight" alt="Languages" width="48%" />
 </p>
 <br>
 
