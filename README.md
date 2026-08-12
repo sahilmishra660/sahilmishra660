@@ -101,14 +101,18 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 <br>
 
-### 📊 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=sahilmishra668&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=sahilmishra668&layout=compact&theme=radical&hide=html,css"/>
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmishra660&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmishra660&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
