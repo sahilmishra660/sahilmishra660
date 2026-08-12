@@ -25,21 +25,20 @@ Right now I'm looking for a **Software Engineering / Frontend Development intern
 
 ### 🧰 Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,nodejs,express,mongodb,git,github,vscode&theme=dark&perline=11"/>
-
-<br>
-<!-- GitHub Activity Trophy (No Rate Limit Issue) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilmishra660&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Sahil Trophies" />
-</div>
+### 🧰 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br />
 
-<!-- Clean Minimal Stats Card -->
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahilmishra660&show_icons=true&theme=tokyonight&hide_border=true" alt="Sahil Mishra Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahilmishra660&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="45%" />
-</div>
+<!-- Profile Summary Quote / Banner Line -->
+> 💡 *Building scalable web applications, mastering DSA, and turning ideas into clean code.*
 <br>
 
 ### 💼 Projects
