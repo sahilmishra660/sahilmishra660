@@ -96,11 +96,31 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 - 🌍 Represented my college at an International Conference
 - ♟️ Organized and managed a Chess Tournament at college
+- 🏅 Captained my School Team
 - 💻 Built a project at the HackDevengers 1.0 Hackathon
 
 <br>
 
+### 📊 GitHub Stats
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api?username=sahilmishra668&show_icons=true&theme=radical&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=sahilmishra668&layout=compact&theme=radical&hide=html,css"/>
+
+</div>
+
+<br>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sahilmishra660/sahilmishra660/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 <br>
 
