@@ -96,7 +96,6 @@ My personal site — responsive, fast, and built to give recruiters a quick look
 
 - 🌍 Represented my college at an International Conference
 - ♟️ Organized and managed a Chess Tournament at college
-- 🏅 Captained my School Team
 - 💻 Built a project at the HackDevengers 1.0 Hackathon
 
 <br>
